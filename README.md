@@ -27,3 +27,4 @@ I'm a graduate student at the University of Texas at Arlington, pursuing a Maste
 ## GitHub Stats  
 
 ![Seniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seniyatuscano&show_icons=true&theme=radical) 
+![Snake animation](https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake-dark.svg)
